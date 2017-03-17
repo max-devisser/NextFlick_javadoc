@@ -1,4 +1,4 @@
 # NextFlick_javadoc
 GH pages to publish javadoc for NextFlick
 
-javadoc at https://max-devisser.github.io/NextFlick_javadoc/index.html
+javadoc at https://max-devisser.github.io/NextFlick_javadoc/javadoc/index.html
